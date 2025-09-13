@@ -1,6 +1,7 @@
+Perfect choice 🎉 — **Follow Me Dots** sounds fun and catchy!
+Here’s your updated **README.md** with the new name 👇
 
-
-````
+````markdown
 # Follow Me Dots 🎯
 
 A fun project where glowing dots follow your mouse cursor.  
@@ -60,4 +61,17 @@ follow-me-dots/
 * Add click effects like sparkles or bursts
 * Make dots bounce when hitting screen edges
 
+---
 
+## 📜 License
+
+This project is open-source and free to use.
+
+---
+
+Made with ❤️ while learning web development.
+
+```
+
+👉 Do you want me to also design a **cool project logo (simple SVG with dots and “Follow Me Dots” text)** that you can put at the top of your README?
+```
