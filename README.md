@@ -1,7 +1,3 @@
-Perfect choice 🎉 — **Follow Me Dots** sounds fun and catchy!
-Here’s your updated **README.md** with the new name 👇
-
-````markdown
 # Follow Me Dots 🎯
 
 A fun project where glowing dots follow your mouse cursor.  
@@ -20,17 +16,6 @@ Move your mouse around the screen and watch the dots chase it with smooth traili
 - **HTML** – page structure  
 - **CSS** – styling & transitions  
 - **JavaScript** – interactivity (mousemove events, hover effects)  
-
----
-
-## 🚀 Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/follow-me-dots.git
-````
-
-2. Open `index.html` in your browser
-3. Move your mouse and enjoy 🎉
 
 ---
 
