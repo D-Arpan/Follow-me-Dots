@@ -48,15 +48,4 @@ follow-me-dots/
 
 ---
 
-## 📜 License
 
-This project is open-source and free to use.
-
----
-
-Made with ❤️ while learning web development.
-
-```
-
-👉 Do you want me to also design a **cool project logo (simple SVG with dots and “Follow Me Dots” text)** that you can put at the top of your README?
-```
